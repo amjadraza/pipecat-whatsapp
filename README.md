@@ -79,6 +79,10 @@ python server.py
 ngrok http 7860 --url overclosely-sonorous-sherika.ngrok-free.dev
 > The server will start and listen for incoming WhatsApp webhook events.
 
+### Use `ngrok` fro Local Development
+
+- Use ngrok for local Development
+
 ### Connect Using WhatsApp
 
 1. Find your WhatsApp test number in the Meta Developer Console
