@@ -328,3 +328,4 @@ src/ai_companion/interfaces/chainlit/.chainlit/
 short_term_memory.db
 src/.chainlit/
 .chainlit/
+__pycache__/
