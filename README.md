@@ -79,7 +79,7 @@ python server.py
 ngrok http 7860 --url overclosely-sonorous-sherika.ngrok-free.dev
 > The server will start and listen for incoming WhatsApp webhook events.
 
-**### Use `ngrok` fro Local Development
+### Use `ngrok` fro Local Development
 
 - Use ngrok for local Development
 - Sign up on ngrok and get `AUTH_TOKEN`
