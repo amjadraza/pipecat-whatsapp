@@ -30,7 +30,6 @@ Your output will be converted to audio so don't include special characters in yo
 Respond to what the user said in a creative and helpful way. Keep your responses brief. One or two sentences at most.
 """
 
-
 async def run_bot(webrtc_connection):
     pipecat_transport = SmallWebRTCTransport(
         webrtc_connection=webrtc_connection,
